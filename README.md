@@ -27,4 +27,4 @@ Flutter Developer.
 - [flutter_simple_ble](https://github.com/wratheus/flutter_simple_ble) — Flutter BLE plugin for Android and iOS. Feedback and contributions are welcome.
 - [flutter_tetris](https://github.com/wratheus/flutter_tetris) — Flutter implementation of classic Tetris with keyboard and sensor controls.
 - [flutter_minesweeper](https://github.com/wratheus/flutter_minesweeper) — Flutter implementation of classic Minesweeper.
-- [dart_rest_client_example](https://github.com/wratheus/dart_rest_client_example) — Practical guide and example for building a REST API client in Dart.
+- [dart_rest_client_example](https://github.com/wratheus/dart_rest_client_example) — A practical Dart REST client guide with a working example.
