@@ -21,9 +21,6 @@ Flutter Developer.
   - Helped diagnose missing Maven artifacts with the `-flutter` suffix after MapKit 4.30 in [yandex/yandex_maps_mapkit#41](https://github.com/yandex/yandex_maps_mapkit/issues/41) and [#40](https://github.com/yandex/yandex_maps_mapkit/issues/40).
   - The maintainers fixed the issue in MapKit SDK 4.38.1.
 
-- **Mobile Scanner lifecycle behavior**
-  - Contributed analysis of `MobileScannerController` lifecycle and route-transition behavior in [mobile_scanner#1349](https://github.com/juliansteenbakker/mobile_scanner/issues/1349), helping drive a documentation/sample discussion.
-
 ## Projects
 
 - [tracksu](https://github.com/wratheus/tracksu) — Flutter app for visualizing osu! API data, built for the osu! community.
