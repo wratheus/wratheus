@@ -9,7 +9,6 @@ Flutter Developer.
 - **AGP Built-in Kotlin compatibility**
   - Reported [flutter/flutter#192167](https://github.com/flutter/flutter/issues/192167), where Flutter's Gradle plugin rejected projects using AGP Built-in Kotlin by enforcing an independently configurable Kotlin Gradle Plugin version.
   - Submitted [flutter/flutter#192206](https://github.com/flutter/flutter/pull/192206), which skips KGP minimum-version validation when Kotlin is provided by AGP.
-  - Maintainer-approved; awaiting CI and merge.
 
 - **Android Impeller rendering**
   - Reported [flutter/flutter#162521](https://github.com/flutter/flutter/issues/162521): rendering glitches involving scroll views, navigation, and modal sheets on Android Impeller.
