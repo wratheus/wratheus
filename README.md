@@ -17,6 +17,10 @@ Flutter Developer.
 
 ### Flutter ecosystem
 
+- **Dio cancellation regression**
+  - Supplied a minimal regression test for [cfug/dio#2170](https://github.com/cfug/dio/issues/2170), showing that cancelling one request could close a connection used by a subsequent request to the same host.
+  - The regression was fixed in Dio 5.4.3.
+
 - **Yandex MapKit Android build regression**
   - Helped diagnose missing Maven artifacts with the `-flutter` suffix after MapKit 4.30 in [yandex/yandex_maps_mapkit#41](https://github.com/yandex/yandex_maps_mapkit/issues/41) and [#40](https://github.com/yandex/yandex_maps_mapkit/issues/40).
   - The maintainers fixed the issue in MapKit SDK 4.38.1.
